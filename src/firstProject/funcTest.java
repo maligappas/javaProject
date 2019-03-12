@@ -5,7 +5,7 @@ public class funcTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-	
+	    // second commit
 		  String s1,s2;
 		  Scanner scan =new Scanner(System.in);
 		  s1=scan.next();
